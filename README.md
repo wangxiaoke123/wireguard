@@ -15,6 +15,6 @@ yum install -y wget && wget https://raw.githubusercontent.com/atrandys/wireguard
 ./wireguard_install.sh
 
 
-## 另一个脚本 适用于Debian8+
+### 另一个脚本 适用于Debian8+
 
 wget --no-check-certificate -qO- 'https://moeclub.org/attachment/LinuxShell/wireguard.sh'| bash
