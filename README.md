@@ -14,6 +14,10 @@ yum install -y wget && wget https://raw.githubusercontent.com/atrandys/wireguard
 
 ./wireguard_install.sh
 
+### Tunsafe脚本
+
+wget https://raw.githubusercontent.com/atrandys/tunsafe/master/tunsafe_install.sh && chmod +x tunsafe_install.sh && ./tunsafe_install.sh
+
 
 ### 另一个脚本
 
