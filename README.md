@@ -21,5 +21,4 @@ wget https://raw.githubusercontent.com/atrandys/tunsafe/master/tunsafe_install.s
 
 ### 另一个脚本
 
-wget --no-check-certificate -O /opt/wireguard.sh https://raw.githubusercontent.com/teddysun/across/master/wireguard.sh
-chmod 755 /opt/wireguard.sh
+wget --no-check-certificate -O /opt/wireguard.sh https://raw.githubusercontent.com/teddysun/across/master/wireguard.sh && chmod +x 755 /opt/wireguard.sh
